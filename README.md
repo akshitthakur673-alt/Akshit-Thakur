@@ -25,7 +25,6 @@ Tools: SQL, Python, Power BI, Excel
 
 A portfolio learning project focused on analyzing customer shopping behavior, purchasing patterns, and business insights.
 
-[View Project](YOUR_PROJECT_GITHUB_LINK)
 
 ### Billing Management System
 
